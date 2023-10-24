@@ -1,4 +1,4 @@
-# Análise Estatística: Adequação à LGPD
+# Análise Estatística:
 > **Projeto:** Aplicação de algoritmos de compartilhamento de segredos e anonimização de dados para adequação de sistemas à LGPD - Edital FAPESC 27/2021.
 
 ![LGPD](https://img.shields.io/badge/-LGPD-blue)
